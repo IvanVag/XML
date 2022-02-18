@@ -1,6 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
 <hobby>
-        <Favorite movie>titanic</Favorite movie>
-        <favorite series>heroes</favorite series>
-        <favorite food>shawarma</favorite food>
-        <favorite season>sommer</favorite season>
-        <which I would like to visit>thailand</which I would like to visit>
+        <Favorite_movie>titanic</Favorite_movie>
+        <favorite_series>heroes</favorite_series>
+        <favorite_food>shawarma</favorite_food>
+        <favorite_season>sommer</favorite_season>
+        <travel_country>thailand</travel_country>
+</hobby>
