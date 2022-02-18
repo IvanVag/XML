@@ -1,11 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
 <bug_report>
-<Заголовок ошибки> 
-<Описание ошибки>
-<Начальные условия>
-<Шаги воспроизведения>
-<Ожидаемый результат> 
-<Фактический результат>
-<Вложения>
-<Серьезность-Значительная>
-<Приоритет-Средний>
-  </bug_report>
+<Error_Title>Description</Error_Title>
+<Error_description>description</Error_description>
+<Initial_conditions>description</Initial_conditions>
+<Playback_steps>description</Playback_steps>
+<Expected_result>description</Expected_result>
+<Actual_result>description</Actual_result>
+<Attachments>photo</Attachments>
+<Severity>Significant></Severity>
+<Priority>Medium></Priority>
+</bug_report>
